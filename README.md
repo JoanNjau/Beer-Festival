@@ -6,7 +6,7 @@ Variables included : Year,beer consumption & prices,roast chicken consumption & 
 
 Tools applied : Microsoft Excel and PowerBI
 
-Since the year 1985,the highest record of attendees was set at 444,000 daily guests and 7.1 Million total guests,which is yet to be broken till date - as seen from the dashboard shared.The lowest number of daiy guests at the festival,however,was 329,000 in 2016 while that of the total guests was 5.5 Million in 2001.
+Since the year 1985,the highest record of attendees was set at 444,000 daily guests and 7.1 Million total guests,which is yet to be broken till date - as seen from the dashboard shared.The lowest number of daily guests at the festival,however,was 329,000 in 2016 while that of the total guests was 5.5 Million in 2001.
 
 The longest duration for the festival was 18 hours, in comparison to the 16 hours for the shortest.
 
