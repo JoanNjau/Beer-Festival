@@ -1,7 +1,9 @@
 # Beer-Festival
 
 Data source : Kaggle
+
 Variables included : Year,beer consumption & prices,roast chicken consumption & prices,duration,daily guests and guests per year.
+
 Tools applied : Microsoft Excel and PowerBI
 
 Since the year 1985,the highest record of attendees was set at 444,000 daily guests and 7.1 Million total guests,which is yet to be broken till date - as seen from the dashboard shared.The lowest number of daiy guests at the festival,however,was 329,000 in 2016 while that of the total guests was 5.5 Million in 2001.
